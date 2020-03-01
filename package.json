@@ -39,7 +39,7 @@
     "bittorrent-protocol": "^3.0.0",
     "chrome-net": "^3.3.2",
     "chunk-store-stream": "^4.0.0",
-    "create-torrent": "git+ssh://git@github.com/luckypal/create-torrent.git",
+    "create-torrent": "git+https://github.com/luckypal/create-torrent.git",
     "debug": "^4.1.0",
     "end-of-stream": "1.4.1",
     "escape-html": "^1.0.3",
